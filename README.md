@@ -55,22 +55,22 @@ Each disease prediction includes:
 
 ### 🏠 Home & Disease Categories
 
-![Home Page]<img width="1851" height="924" alt="Screenshot 2025-04-12 152508" src="https://github.com/user-attachments/assets/e10f74a5-e164-4335-abcb-7c2c3c21876c" />
+Home Page<img width="1851" height="924" alt="Screenshot 2025-04-12 152508" src="https://github.com/user-attachments/assets/e10f74a5-e164-4335-abcb-7c2c3c21876c" />
 
 
 ### 🧾 Symptom Checker Interface
 
-![Symptom Checker]<img width="1840" height="923" alt="Screenshot 2025-04-12 152642" src="https://github.com/user-attachments/assets/6b0c750b-a41f-46ea-8cdd-76b744bb3ba6" />
-420.png)
+Symptom Checker<img width="1840" height="923" alt="Screenshot 2025-04-12 152642" src="https://github.com/user-attachments/assets/6b0c750b-a41f-46ea-8cdd-76b744bb3ba6" />
+
 
 ### 📊 Prediction Results & Disease Insights
 
-![Search Results]<img width="1839" height="920" alt="Screenshot 2025-04-12 152805" src="https://github.com/user-attachments/assets/83d59ece-3c89-44e5-bce1-8bd58eceaba8" />
+Search Results<img width="1839" height="920" alt="Screenshot 2025-04-12 152805" src="https://github.com/user-attachments/assets/83d59ece-3c89-44e5-bce1-8bd58eceaba8" />
 
 
 ### 🩺 Detailed Disease Recommendation View
 
-![Detailed Result]<img width="984" height="821" alt="Screenshot 2025-04-12 152915" src="https://github.com/user-attachments/assets/447578f2-63d8-450f-b81e-998ca9c16c83" />
+Detailed Result<img width="984" height="821" alt="Screenshot 2025-04-12 152915" src="https://github.com/user-attachments/assets/447578f2-63d8-450f-b81e-998ca9c16c83" />
 <img width="981" height="822" alt="Screenshot 2025-04-12 152931" src="https://github.com/user-attachments/assets/457a2054-800d-4e89-a219-3e884c8c7623" />
 
 
